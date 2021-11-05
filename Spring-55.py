@@ -70,7 +70,7 @@ lenf=0
 name=""
 szx=""
 wer=""
-namez = input("c,c2,c3: compress or e,u2,e3: extract? ")
+namez = input("c,c2: compress or e,u2: extract? ")
 
 f = open("PI_10M.txt", "r")
 PI=f.read()
